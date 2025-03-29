@@ -1,0 +1,44 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #ff3c4f;
+  --ifm-color-primary-dark: #ff1a57;
+  --ifm-color-primary-darker: #ff0d2e;
+  --ifm-color-primary-darkest: #fe9c3b;
+  --ifm-color-primary-light: #ff6b40;
+  --ifm-color-primary-lighter: #ff8e3c;
+  --ifm-color-primary-lightest: #ff752b;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns in dark mode */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff3c4f;
+  --ifm-color-primary-dark: #fe8e3c;
+  --ifm-color-primary-darker: #ff0d2e;
+  --ifm-color-primary-darkest: #fe9c3b;
+  --ifm-color-primary-light: #ff6b40;
+  --ifm-color-primary-lighter: #ff8e3c;
+  --ifm-color-primary-lightest: #ff752b;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+.paragraphEmoji {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 1.2rem;
+  vertical-align: middle;
+}
+
+.whatIsContent p {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
