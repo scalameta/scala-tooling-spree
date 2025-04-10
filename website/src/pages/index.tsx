@@ -18,11 +18,8 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/events">
-            Events 📅
-          </Link>
+          <a href="docs/events" target="_blank" className="button button--secondary button--lg margin-right--md">Events 📅</a>
+          <a href="docs/guidelines" className="button button--secondary button--lg">Guidelines 📝</a>
         </div>
       </div>
     </header>
