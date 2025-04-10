@@ -8,7 +8,7 @@ sidebar_position: 2
 #### Registration
 If you want to take part in the Scala Tooling Spree, please register using [this form](https://forms.gle/yUurzS2KiM2Kwnpc6). If the form is closed, it may be because registrations haven't opened yet. The form usually closes two days before the event, but feel free to register as long as it's still open.
 
-If you registered but can no longer attend, please send a quick email to kmarek@virtuslab.com.
+If you registered but can no longer attend, please send a quick email to tooling-spree@virtuslab.com.
 
 #### Preparation
 A day before the spree, you'll receive an email with a link to the Google Meet where the event will take place, as well as a link to a spreadsheet with assignments.
