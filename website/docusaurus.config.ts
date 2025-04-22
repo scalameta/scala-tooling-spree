@@ -13,7 +13,7 @@ const config: Config = {
   tagline: 'Improve Scala tooling and meet great people',
   favicon: 'img/favicon.ico',
 
-  url: 'https://majk-p.github.io/', // todo change to scalameta.org once moved to the org
+  url: 'https://scalameta.org/',
   baseUrl: '/scala-tooling-spree/',
   organizationName: 'scalameta',
   projectName: 'scala-tooling-spree',
