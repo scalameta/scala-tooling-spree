@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Scala Tooling Spree takes place every three weeks.
 
-Next event will take place on July 31 2025.
+Next event will take place on August 28 2025.
 You can sign in via [https://forms.gle/yUurzS2KiM2Kwnpc6](https://forms.gle/yUurzS2KiM2Kwnpc6) when the form is open.
 
 ## Past editions
